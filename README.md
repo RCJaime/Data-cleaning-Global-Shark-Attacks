@@ -33,35 +33,35 @@ La metodología de trabajo ha sido la siguiente:
 
 Tras realizar la limpieza de datos nos centramos en dos columnas, 'year' e 'injury_values'. Analizamos los valores absolutos, los valores porcentuales y algunas medidas de centralización y de dispersión, que nos arrojan los siguientes resultados:
 
-  **1.'no injury' porcentual**
+ ### **1.'no injury' porcentual** ###
   
 ![texto cualquiera](https://github.com/Jaimercmail/Data-cleaning-Global-Shark-Attacks/blob/main/Multimedia/evol.no_injury.percen.png)
 
-  **2.'minor injury' porcentual**
+ ### **2.'minor injury' porcentual** ###
   
 ![texto cualquiera](https://github.com/Jaimercmail/Data-cleaning-Global-Shark-Attacks/blob/main/Multimedia/evol.minor_injury.percen.png)
   
-  **3.'injury' porcentual**
+  ### **3.'injury' porcentual** ###
   
 ![texto cualquiera](https://github.com/Jaimercmail/Data-cleaning-Global-Shark-Attacks/blob/main/Multimedia/evol.injury.percen.png)
 
-  **4.'severe injury' porcentual**
+  ### **4.'severe injury' porcentual** ###
   
 ![texto cualquiera](https://github.com/Jaimercmail/Data-cleaning-Global-Shark-Attacks/blob/main/Multimedia/evol.%20major_injury.percen.png)
 
-  **5.'fatal' porcentual**
+  ### **5.'fatal' porcentual** ###
   
 ![texto cualquiera](https://github.com/Jaimercmail/Data-cleaning-Global-Shark-Attacks/blob/main/Multimedia/evol.%20fatal.percen.png)
 
-  **6.'no injury' absoluto**
+  ### **6.'no injury' absoluto** ###
   
 ![texto cualquiera](https://github.com/Jaimercmail/Data-cleaning-Global-Shark-Attacks/blob/main/Multimedia/evol.no_injury.png)
 
-  **7.'fatal' absoluto**
+  ### **7.'fatal' absoluto** ###
 
 ![texto cualquiera](https://github.com/Jaimercmail/Data-cleaning-Global-Shark-Attacks/blob/main/Multimedia/evol.%20fatal.png)
 
-  **8.Evolución por decadas de los valores absolutos:**
+  ### **8.Evolución por decadas de los valores absolutos:** ###
 
 ![texto cualquiera](https://github.com/Jaimercmail/Data-cleaning-Global-Shark-Attacks/blob/main/Multimedia/graficos%201969-1978.png)
 
