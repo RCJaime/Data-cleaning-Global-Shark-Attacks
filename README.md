@@ -75,8 +75,9 @@ Tras realizar la limpieza de datos nos centramos en dos columnas, 'year' e 'inju
 
 En este primer análisis de los datos absolutos y porcentuales, podemos determinar que la agresividad de los ataques de tiburón ha disminuido en los últimos 50 años. Sobre esto se podrían hacer numerosas conjeturas( especialmente con la cantidad de datos disponibles) pero no vamos a entrar en ello.
 
-Para la próxima semana analizaremos la evolución de los ataques de orcas a tiburones porque...
 
+
+Para la próxima semana analizaremos la evolución de los ataques de orcas a tiburones porque...
 
 ![texto cualquiera](https://github.com/Jaimercmail/Data-cleaning-Global-Shark-Attacks/blob/main/Multimedia/final%20joke.jpg)
 
