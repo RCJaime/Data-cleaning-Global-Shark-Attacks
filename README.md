@@ -29,7 +29,7 @@ La metodología de trabajo ha sido la siguiente:
 - Determinar si afecta al objeto de estudio, en cuyo caso pasamos a un estudio en profundidad.
 - Ajuste de indices.
 
-##Resultados del estudio##
+## Resultados del estudio ##
 
 Tras realizar la limpieza de datos nos centramos en dos columnas, 'year' e 'injury_values'. Analizamos los valores absolutos, los valores porcentuales y algunas medidas de centralización y de dispersión, que nos arrojan los siguientes resultados:
 
