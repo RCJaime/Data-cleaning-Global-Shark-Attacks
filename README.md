@@ -39,31 +39,31 @@ Tras realizar la limpieza de datos nos centramos en dos columnas, 'year' e 'inju
 
  ### **1.'no injury' porcentual** ###
   
-![texto cualquiera]()
+![texto cualquiera](https://github.com/Jaimercmail/Data-cleaning-Global-Shark-Attacks/blob/main/Multimedia/evol.no%20injury.%25.png)
 
  ### **2.'minor injury' porcentual** ###
   
-![texto cualquiera]()
+![texto cualquiera](https://github.com/Jaimercmail/Data-cleaning-Global-Shark-Attacks/blob/main/Multimedia/evol.minor%20injury.%25.png)
   
   ### **3.'injury' porcentual** ###
   
-![texto cualquiera]()
+![texto cualquiera](https://github.com/Jaimercmail/Data-cleaning-Global-Shark-Attacks/blob/main/Multimedia/evol.injury.%25.png)
 
   ### **4.'severe injury' porcentual** ###
   
-![texto cualquiera]()
+![texto cualquiera](https://github.com/Jaimercmail/Data-cleaning-Global-Shark-Attacks/blob/main/Multimedia/evol.mayor%20injury.%25.png)
 
   ### **5.'fatal' porcentual** ###
   
-![texto cualquiera]()
+![texto cualquiera](https://github.com/Jaimercmail/Data-cleaning-Global-Shark-Attacks/blob/main/Multimedia/evol.fatal.%25.png)
 
   ### **6.'no injury' absoluto** ###
   
-![texto cualquiera]()
+![texto cualquiera](https://github.com/Jaimercmail/Data-cleaning-Global-Shark-Attacks/blob/main/Multimedia/evol.no%20injury.abs.png)
 
   ### **7.'fatal' absoluto** ###
 
-![texto cualquiera]()
+![texto cualquiera](https://github.com/Jaimercmail/Data-cleaning-Global-Shark-Attacks/blob/main/Multimedia/evol.fatal.abs.png)
 
   ### **8.Evolución por decadas de los valores absolutos:** ###
 
