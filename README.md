@@ -13,12 +13,16 @@ Para ello, hemos agrupado los tipos de lesión producidos por los ataques de tib
 - 'injury' : el ataque produjo lesiones graves. Laceraciones, abrasiones, heridas en extremidades, etc.
 - 'severe injury' : el ataque produjo lesiones muy graves. Fracturas, amputaciones, heridas en el cuello, etc.
 - 'fatal': el ataque produjo la muerte.
+
+  
 Esta categorización queda recogida en una nueva columna, **'injury_values'**, otorgando un valor a cada tipo de dato por si a la hora de realizar el estudio necesitamos un dato numérico:
 - 'no injury': 0
 - 'minor injury' : 1
 - 'injury' : 2
 - 'severe injury' : 3
 - 'fatal': 4
+
+- 
 Para esta categorización, previamente hemos limpiado los datos de varias columnas del dataframe para determinar: si el ataque fue producido por un tiburón; si el dato entra dentro de nuestra franja temporal de estudio.
 
 La metodología de trabajo ha sido la siguiente:
@@ -35,31 +39,31 @@ Tras realizar la limpieza de datos nos centramos en dos columnas, 'year' e 'inju
 
  ### **1.'no injury' porcentual** ###
   
-![texto cualquiera](https://github.com/Jaimercmail/Data-cleaning-Global-Shark-Attacks/blob/main/Multimedia/evol.no_injury.percen.png)
+![texto cualquiera]()
 
  ### **2.'minor injury' porcentual** ###
   
-![texto cualquiera](https://github.com/Jaimercmail/Data-cleaning-Global-Shark-Attacks/blob/main/Multimedia/evol.minor_injury.percen.png)
+![texto cualquiera]()
   
   ### **3.'injury' porcentual** ###
   
-![texto cualquiera](https://github.com/Jaimercmail/Data-cleaning-Global-Shark-Attacks/blob/main/Multimedia/evol.injury.percen.png)
+![texto cualquiera]()
 
   ### **4.'severe injury' porcentual** ###
   
-![texto cualquiera](https://github.com/Jaimercmail/Data-cleaning-Global-Shark-Attacks/blob/main/Multimedia/evol.%20major_injury.percen.png)
+![texto cualquiera]()
 
   ### **5.'fatal' porcentual** ###
   
-![texto cualquiera](https://github.com/Jaimercmail/Data-cleaning-Global-Shark-Attacks/blob/main/Multimedia/evol.%20fatal.percen.png)
+![texto cualquiera]()
 
   ### **6.'no injury' absoluto** ###
   
-![texto cualquiera](https://github.com/Jaimercmail/Data-cleaning-Global-Shark-Attacks/blob/main/Multimedia/evol.no_injury.png)
+![texto cualquiera]()
 
   ### **7.'fatal' absoluto** ###
 
-![texto cualquiera](https://github.com/Jaimercmail/Data-cleaning-Global-Shark-Attacks/blob/main/Multimedia/evol.%20fatal.png)
+![texto cualquiera]()
 
   ### **8.Evolución por decadas de los valores absolutos:** ###
 
