@@ -13,6 +13,8 @@ Para ello, hemos agrupado los tipos de lesión producidos por los ataques de tib
 - 'injury' : el ataque produjo lesiones graves. Laceraciones, abrasiones, heridas en extremidades, etc.
 - 'severe injury' : el ataque produjo lesiones muy graves. Fracturas, amputaciones, heridas en el cuello, etc.
 - 'fatal': el ataque produjo la muerte.
+
+  
 Esta categorización queda recogida en una nueva columna, **'injury_values'**, otorgando un valor a cada tipo de dato por si a la hora de realizar el estudio necesitamos un dato numérico:
 - 'no injury': 0
 - 'minor injury' : 1
